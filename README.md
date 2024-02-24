@@ -4,7 +4,7 @@ This repository contains code for a Convolutional Neural Network (CNN) model tra
 
 ## Dataset
 
-The dataset used for training consists of images of dogs and cats obtained from [link to dataset]. The dataset is divided into training and validation sets, and each image is labeled as either a dog or a cat.
+The dataset used for training consists of images of dogs and cats obtained from [!kaggle datasets download -d salader/dogs-vs-cats]. The dataset is divided into training and validation sets, and each image is labeled as either a dog or a cat.
 
 ## Model Architecture
 
